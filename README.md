@@ -5,4 +5,9 @@ App that enables a user to take a picture, add text at the top and bottom to for
 Twitter and also by SMS or email. Sent memes will appear in a tab view with two tabs: a table view and a collection view. 
 MemeMe also temporarily stores sent memes which users can browse in a table or a grid.
 
+#Requirements
+
+Xcode 8.3.3
+Swift 3.0
+
 
